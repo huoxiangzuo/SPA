@@ -16,8 +16,8 @@ Enjoy the code and find its convenience to produce more awesome works!
 ## Run
 0. Requirements:
 * python3
-* pytorch 1.10
-* torchvision 0.11.1
+* pytorch 1.12.0
+* torchvision 0.13.0
 1. Train:
 * Prepare the required images and store them in categories, set up training image folders and validation image folders respectively
 * Run `python train.py`
