@@ -1,6 +1,6 @@
 # SPA
 ![](https://img.shields.io/github/license/huoxiangzuo/SPA)  
-This repo. is the official implementation of '**SPA: Self-Peripheral-Attention for Central-Peripheral Interactions in Endoscopic Image Classification and Segmentation**'.   
+This repo. is the official implementation of ['**SPA: Self-Peripheral-Attention for Central-Peripheral Interactions in Endoscopic Image Classification and Segmentation**'](https://www.sciencedirect.com/science/article/pii/S0957417423035558).   
 Authors: Xiangzuo Huo, Shengwei Tian, Yongxu Yang, Long Yu, Wendong Zhang, Aolun Li.  
 Enjoy the code and find its convenience to produce more awesome works!
 
