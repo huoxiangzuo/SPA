@@ -4,14 +4,20 @@ This repo. is the official implementation of '**SPA: Self-Peripheral-Attention f
 Authors: Xiangzuo Huo, Shengwei Tian, Yongxu Yang, Long Yu, Wendong Zhang, Aolun Li.  
 Enjoy the code and find its convenience to produce more awesome works!
 
-## Overview
-<!-- <img width="1395" alt="figure1" src="https://user-images.githubusercontent.com/57312968/191570017-34f30c13-9d8e-4776-a118-de968aebdb19.png" width="80%"> -->
+## Motivation
+<img src="https://github.com/huoxiangzuo/SPA/assets/57312968/6ae2a1e0-bb96-4152-bf63-a44b8c1ed653" width="500">
 
-## SPA-Net and Self-Peripheral-Attention
-<!-- <img width="1424" alt="figure2s" src="https://user-images.githubusercontent.com/57312968/191570496-c62e04dc-8baf-4b01-a6ba-03c24c5a744d.png" width="70%"> -->
+## SPA-Net
+![spanet](https://github.com/huoxiangzuo/SPA/assets/57312968/ecf8c9c3-5e47-434a-8a69-2a2339ced0b2)
+
+## Self-Peripheral-Attention
+![SPA](https://github.com/huoxiangzuo/SPA/assets/57312968/3246d66d-c2ba-4376-bb98-c418c4aa0f07)
 
 ## Visual Inspection of SPA
-<!-- <img src="https://user-images.githubusercontent.com/57312968/191570242-4425944d-4017-45c6-a3f7-f977376766a2.png" width="75%"> -->
+<img src="https://github.com/huoxiangzuo/SPA/assets/57312968/84bce289-e6dc-402e-98ab-f61c9bfe77ee" width="500">
+
+## Segmentation Results
+<img src="https://github.com/huoxiangzuo/SPA/assets/57312968/7707fe7b-2d2d-4cb3-949d-0ee5c548738e" width="800">
 
 ## Run
 0. Requirements:
@@ -43,6 +49,14 @@ Some of the codes in this repo are borrowed from:
 If you find our paper/code is helpful, please consider citing:
 
 ```bibtex
-
+@article{HUO2023123053,
+title = {SPA: Self-Peripheral-Attention for central-peripheral interactions in endoscopic image classification and segmentation},
+journal = {Expert Systems with Applications},
+pages = {123053},
+year = {2023},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2023.123053},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417423035558},
+author = {Xiangzuo Huo and Shengwei Tian and Yongxu Yang and Long Yu and Wendong Zhang and Aolun Li},
 ```
 
