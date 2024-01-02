@@ -49,14 +49,13 @@ Some of the codes in this repo are borrowed from:
 If you find our paper/code is helpful, please consider citing:
 
 ```bibtex
-@article{HUO2023123053,
-title = {SPA: Self-Peripheral-Attention for central-peripheral interactions in endoscopic image classification and segmentation},
-journal = {Expert Systems with Applications},
-pages = {123053},
-year = {2023},
-issn = {0957-4174},
-doi = {https://doi.org/10.1016/j.eswa.2023.123053},
-url = {https://www.sciencedirect.com/science/article/pii/S0957417423035558},
-author = {Xiangzuo Huo and Shengwei Tian and Yongxu Yang and Long Yu and Wendong Zhang and Aolun Li},
+@article{huo2023spa,
+  title={SPA: Self-Peripheral-Attention for central-peripheral interactions in endoscopic image classification and segmentation},
+  author={Huo, Xiangzuo and Tian, Shengwei and Yang, Yongxu and Yu, Long and Zhang, Wendong and Li, Aolun},
+  journal={Expert Systems with Applications},
+  pages={123053},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
 
