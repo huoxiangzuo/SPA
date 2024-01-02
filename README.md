@@ -11,7 +11,7 @@ Enjoy the code and find its convenience to produce more awesome works!
 ![spanet](https://github.com/huoxiangzuo/SPA/assets/57312968/ecf8c9c3-5e47-434a-8a69-2a2339ced0b2)
 
 ## Self-Peripheral-Attention
-![SPA](https://github.com/huoxiangzuo/SPA/assets/57312968/3246d66d-c2ba-4376-bb98-c418c4aa0f07)
+![SPAnorm](https://github.com/huoxiangzuo/SPA/assets/57312968/49c5f7d7-2c25-4597-80dc-859b0aa5fb88)
 
 ## Visual Inspection of SPA
 <img src="https://github.com/huoxiangzuo/SPA/assets/57312968/84bce289-e6dc-402e-98ab-f61c9bfe77ee" width="500">
